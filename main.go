@@ -10,7 +10,7 @@ import (
 	_ "github.com/vertica/vertica-sql-go"
 
 	"github.com/jmoiron/sqlx"
-	"github.com/zwennesm/vertica-prometheus-exporter/monitoring"
+	"github.com/oriabyi/vertica-prometheus-exporter/monitoring"
 )
 
 func main() {
